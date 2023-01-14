@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	int a=7, b=5;
+	
+	cout<<"Hasil a + b = " <<a + b <<endl;
+	cout<<"Hasil a - b = " <<b - b <<endl;
+	cout<<"Hasil a * b = " <<b * b <<endl;
+	cout<<"Hasil a / b = " <<b / b <<endl;
+	cout<<"Hasil a % b = " <<b % b <<endl;
+}
+
+
+echo "# learn-c-batch-3" >> README.md                   // create README.md
+        git init                                         // initialize git
+        git add README.md                               // add README.md to git
+        git commit -m "first commit"                     // commit README.md
+git branch -M main                                            // create main branch
+git remote add origin https://github.com/Packooo/learn-c-batch-3.git // add remote origin
+git push -u origin main                                             // push to remote origin
+
+urut bae ora papa
+cuman ana readme.md tok soale sing di commit kue tok
+
+
